@@ -1,0 +1,438 @@
+<?xml version="1.0" ?>
+<manifest
+  identifier="MoyOMzojb0TBL8mc-wRa5mWWt9VHLGXeYtX0Yres"
+  version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd"
+>
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Prompt Engineering in the Design of DE for Instructional Designers: Ethical and Inclusive Practices</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Prompt Engineering in the Design of DE for Instructional Designers: Ethical and Inclusive Practices</title>
+        <adlcp:datafromlms>datafromlms</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      
+        <file href="scormcontent/lib/rise/33a09e8f.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/entry.js" />
+      
+        <file href="scormcontent/lib/sandbox/sandbox.html" />
+      
+        <file href="scormcontent/lib/rise/ca4ee43b.css" />
+      
+        <file href="scormcontent/lib/ai-scenario/57960b97.js" />
+      
+        <file href="scormcontent/lib/sandbox/c77685df.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/841684f2.js" />
+      
+        <file href="scormcontent/lib/learn_dist/entry.js" />
+      
+        <file href="scormcontent/lib/sandbox/4adfab46.css" />
+      
+        <file href="scormcontent/lib/ai-scenario/6237cfa3.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/312c66b0.js" />
+      
+        <file href="scormcontent/lib/mondrian/entry.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/5e51779a.js" />
+      
+        <file href="scormcontent/lib/learn_dist/9b1f8619.js" />
+      
+        <file href="scormcontent/lib/mondrian/566d9284.js" />
+      
+        <file href="scormcontent/lib/learn_dist/cd7714c6.css" />
+      
+        <file href="scormcontent/lib/learn_dist/2134587e.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/3920a105.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/cc2a144c.js" />
+      
+        <file href="scormcontent/lib/mondrian/37514259.js" />
+      
+        <file href="scormcontent/lib/mondrian/fee6844b.js" />
+      
+        <file href="scormcontent/lib/mondrian/3868877e.js" />
+      
+        <file href="scormcontent/lib/mondrian/5d56aa22.js" />
+      
+        <file href="scormcontent/lib/rise/039bf5f6.js" />
+      
+        <file href="scormcontent/lib/rise/ae38e341.css" />
+      
+        <file href="scormcontent/lib/rise/8e961818.js" />
+      
+        <file href="scormcontent/lib/rise/9aede266.ttf" />
+      
+        <file href="scormcontent/lib/rise/bff47411.woff" />
+      
+        <file href="scormcontent/lib/rise/aaffd20b.js" />
+      
+        <file href="scormcontent/lib/rise/8db4efdd.js" />
+      
+        <file href="scormcontent/lib/rise/047d7ebc.js" />
+      
+        <file href="scormcontent/lib/rise/b05a8c9f.js" />
+      
+        <file href="scormcontent/lib/rise/4fda90c0.js" />
+      
+        <file href="scormcontent/lib/rise/e3a70a47.js" />
+      
+        <file href="scormcontent/lib/rise/819cec00.js" />
+      
+        <file href="scormcontent/lib/rise/299f5ddb.js" />
+      
+        <file href="scormcontent/lib/rise/ff165790.js" />
+      
+        <file href="scormcontent/lib/rise/f62ce274.js" />
+      
+        <file href="scormcontent/lib/rise/89f42f2e.js" />
+      
+        <file href="scormcontent/lib/rise/845122ff.js" />
+      
+        <file href="scormcontent/lib/rise/17afba40.js" />
+      
+        <file href="scormcontent/lib/rise/64920db2.js" />
+      
+        <file href="scormcontent/lib/rise/f4fa5507.js" />
+      
+        <file href="scormcontent/lib/rise/adcbccc0.js" />
+      
+        <file href="scormcontent/lib/rise/a4b1d1ff.js" />
+      
+        <file href="scormdriver/driverOptions.js" />
+      
+        <file href="scormdriver/indexAPI.html" />
+      
+        <file href="scormdriver/goodbye.html" />
+      
+        <file href="scormcontent/index.html" />
+      
+        <file href="scormcontent/lib/dist/7137cfb8.js" />
+      
+        <file href="scormdriver/lib/dist/75b507a5.js" />
+      
+        <file href="scormcontent/assets/small_1733761314140.png" />
+      
+        <file href="scormcontent/assets/stock-image.jpg" />
+      
+        <file href="scormcontent/assets/mountains.jpg" />
+      
+        <file href="scormcontent/assets/hotel.jpg" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_qzv.jpg" />
+      
+        <file href="scormdriver/scormdriver.js" />
+      
+        <file href="scormcontent/assets/View Mode.png" />
+      
+        <file href="scormdriver/lms-interface.js" />
+      
+        <file href="scormcontent/assets/Navigation.png" />
+      
+        <file href="scormdriver/browsersniff.js" />
+      
+        <file href="scormcontent/assets/Navigationcombined.jpg" />
+      
+        <file href="scormdriver/blank.html" />
+      
+        <file href="scormcontent/assets/Navigationbuttonscombined2.jpg" />
+      
+        <file href="scormdriver/AICCComm.html" />
+      
+        <file href="scormcontent/assets/File download.png" />
+      
+        <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      
+        <file href="scormcontent/assets/Navigationhyperlinks.png" />
+      
+        <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_km5.jpg" />
+      
+        <file href="scormdriver/auto-scripts/CourseExit.js" />
+      
+        <file href="scormcontent/assets/Applying the CLEAR Framewo.jpg" />
+      
+        <file href="scormcontent/assets/Practical Application of C.jpg" />
+      
+        <file href="scormcontent/assets/Practical Application of C.png" />
+      
+        <file href="scormcontent/assets/few_shot.svg" />
+      
+        <file href="scormcontent/assets/Zero-shot Prompt Example.png" />
+      
+        <file href="scormcontent/assets/Few-shot Prompt Example.png" />
+      
+        <file href="scormcontent/assets/Chain-of-Throught Prompt E.jpg" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_gj8.jpg" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_s9j.jpg" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_fe8.jpg" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_clq.jpg" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_96i.jpg" />
+      
+        <file href="scormcontent/assets/KC2.1.3.png" />
+      
+        <file href="scormcontent/assets/KC2.1.2.png" />
+      
+        <file href="scormcontent/assets/Awareness of Misuse.jpg" />
+      
+        <file href="scormcontent/assets/PE Taxonomies.jpg" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli.mp3" />
+      
+        <file href="scormcontent/assets/Output Analysis2.png" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-1.mp3" />
+      
+        <file href="scormcontent/assets/Transparency.jpg" />
+      
+        <file href="scormcontent/assets/Quality_Metrics_Triangle_G.jpg" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-2.mp3" />
+      
+        <file href="scormcontent/assets/stock-image-1.jpg" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_w99.jpg" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-3.mp3" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_h9h.jpg" />
+      
+        <file href="scormcontent/assets/unnamed.jpg" />
+      
+        <file href="scormcontent/assets/LA2.10.png" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_d3j.jpg" />
+      
+        <file href="scormcontent/assets/KC2.1.1.png" />
+      
+        <file href="scormcontent/assets/Gemini_Generated_Image_f2b.jpg" />
+      
+        <file href="scormcontent/assets/Prompt Pattern Taxonomy.png" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-4.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-5.mp3" />
+      
+        <file href="scormcontent/assets/Pattern 1.c.png" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-6.mp3" />
+      
+        <file href="scormcontent/assets/LA2.9.png" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-7.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-8.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-9.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-10.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-11.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-12.mp3" />
+      
+        <file href="scormcontent/assets/cmimbfuxq03x707uoco882l5a.svg" />
+      
+        <file href="scormcontent/assets/cmimcn42w03my08y6d14p4l2n.jpg" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-13.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-14.mp3" />
+      
+        <file href="scormcontent/assets/Playground Project (en) v1.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_CO.audio cli-15.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-1.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-2.mp3" />
+      
+        <file href="scormcontent/assets/c99dc13b-996f-47ff-959f-e7.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-3.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-4.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-5.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-6.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-7.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-8.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-9.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-10.mp3" />
+      
+        <file href="scormcontent/assets/3acb2606-3598-4851-9394-dc.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-11.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.4.audio cl.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.4.audio cl-1.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.4.audio cl-2.mp3" />
+      
+        <file href="scormcontent/assets/CLEAR Framework Prompt Tem.pdf" />
+      
+        <file href="scormcontent/assets/Example CLEAR Prompts.pdf" />
+      
+        <file href="scormcontent/assets/Example CRISPE Prompts.pdf" />
+      
+        <file href="scormcontent/assets/057_full.png" />
+      
+        <file href="scormcontent/assets/3c38144a-4648-4d15-b453-29.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-12.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-13.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-14.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-15.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-16.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-17.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-18.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-19.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-20.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-21.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.4.audio cl-3.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.4.audio cl-4.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.4.audio cl-5.mp3" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_1.2.audio cl-22.mp3" />
+      
+        <file href="scormcontent/assets/The Instructional Designer.pdf" />
+      
+        <file href="scormcontent/assets/030_full.png" />
+      
+        <file href="scormcontent/assets/073_full.png" />
+      
+        <file href="scormcontent/assets/158_full.png" />
+      
+        <file href="scormcontent/assets/7076_PE in DE_WU.audio cli.mp3" />
+      
+        <file href="scormcontent/assets/034_full.png" />
+      
+        <file href="scormcontent/assets/GQs for CLEAR Framework.pdf" />
+      
+        <file href="scormcontent/assets/050_full.png" />
+      
+        <file href="scormcontent/assets/033_full.png" />
+      
+        <file href="scormcontent/assets/052_full.png" />
+      
+        <file href="scormcontent/assets/Prompt_Patterns_Quick_Refe.pdf" />
+      
+        <file href="scormcontent/assets/058_full.png" />
+      
+        <file href="scormcontent/assets/026_full.png" />
+      
+        <file href="scormcontent/assets/Ethical_Prompt_Engineering.pdf" />
+      
+        <file href="scormcontent/assets/035_full.png" />
+      
+        <file href="scormcontent/assets/004_full.png" />
+      
+        <file href="scormcontent/assets/063_full.png" />
+      
+        <file href="scormcontent/assets/047_full.png" />
+      
+        <file href="scormcontent/assets/038_full.png" />
+      
+        <file href="scormcontent/assets/067_full.png" />
+      
+        <file href="scormcontent/assets/040_full.png" />
+      
+        <file href="scormcontent/assets/044_full.png" />
+      
+        <file href="scormcontent/assets/054_full.png" />
+      
+        <file href="scormcontent/assets/115_full.png" />
+      
+        <file href="scormcontent/assets/166_full.png" />
+      
+        <file href="scormcontent/assets/208_full.png" />
+      
+        <file href="scormcontent/assets/168_full.png" />
+      
+        <file href="scormcontent/assets/152_full.png" />
+      
+        <file href="scormcontent/lib/fonts/Inter-Medium.woff" />
+      
+        <file href="scormcontent/assets/188_full.png" />
+      
+        <file href="scormcontent/assets/151_full.png" />
+      
+        <file href="scormcontent/assets/104_full.png" />
+      
+        <file href="scormcontent/assets/156_full.png" />
+      
+        <file href="scormcontent/assets/201_full.png" />
+      
+        <file href="scormcontent/assets/189_full.png" />
+      
+        <file href="scormcontent/assets/103_full.png" />
+      
+        <file href="scormcontent/assets/175_full.png" />
+      
+        <file href="scormcontent/assets/178_full.png" />
+      
+        <file href="scormcontent/assets/195_full.png" />
+      
+        <file href="scormcontent/assets/158_full-1.png" />
+      
+        <file href="scormcontent/assets/192_full.png" />
+      
+        <file href="scormcontent/assets/196_full.png" />
+      
+        <file href="scormcontent/assets/197_full.png" />
+      
+        <file href="scormcontent/lib/fonts/Inter-Black.woff" />
+      
+        <file href="scormcontent/lib/fonts/Inter-Regular.woff" />
+      
+        <file href="scormcontent/lib/fonts/Inter-Bold.woff" />
+      
+        <file href="scormcontent/lib/fonts/Inter-Light.woff" />
+      
+        <file href="scormcontent/runtime-data.js" />
+      
+    </resource>
+  </resources>
+</manifest>
